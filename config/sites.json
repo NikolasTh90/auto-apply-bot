@@ -1,0 +1,47 @@
+{
+  "sites": [
+    {
+      "nome": "LinkedIn",
+      "urls_busca": [
+        "https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer&location=Dublin%2C%20Ireland&f_WT=2%2C3&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=Machine%20Learning%20Engineer&location=Dublin%2C%20Ireland&f_WT=2%2C3&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=LLM%20Engineer&location=Dublin%2C%20Ireland&f_WT=2%2C3&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=Generative%20AI%20Engineer&location=Dublin%2C%20Ireland&f_WT=2%2C3&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=MLOps%20Engineer&location=Dublin%2C%20Ireland&f_WT=2%2C3&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=Python%20Developer&location=Dublin%2C%20Ireland&f_WT=2%2C3&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=Python%20Engineer&location=Dublin%2C%20Ireland&f_WT=2%2C3&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=Backend%20Engineer&location=Dublin%2C%20Ireland&f_WT=2%2C3&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=Backend%20Developer&location=Dublin%2C%20Ireland&f_WT=2%2C3&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=DevOps%20Engineer&location=Dublin%2C%20Ireland&f_WT=2%2C3&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=Platform%20Engineer&location=Dublin%2C%20Ireland&f_WT=2%2C3&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=Site%20Reliability%20Engineer&location=Dublin%2C%20Ireland&f_WT=2%2C3&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=Cloud%20Engineer&location=Dublin%2C%20Ireland&f_WT=2%2C3&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Developer&location=Dublin%2C%20Ireland&f_WT=2%2C3&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer&location=Dublin%2C%20Ireland&f_WT=2%2C3&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer&location=Dublin%2C%20Ireland&f_WT=2%2C3&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer&location=Ireland&f_WT=2&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=Machine%20Learning%20Engineer&location=Ireland&f_WT=2&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=Python%20Developer&location=Ireland&f_WT=2&f_AL=true",
+        "https://www.linkedin.com/jobs/search/?keywords=DevOps%20Engineer&location=Ireland&f_WT=2&f_AL=true"
+      ],
+      "tipo": "linkedin",
+      "instrucoes": "Use Easy Apply only (f_AL=true). Skip jobs without Easy Apply. The candidate is an EU national who can work in Ireland/EU without a visa, targeting Dublin hybrid or Ireland/EU remote roles. Score relevance against the profile (AI/ML, RAG, LangChain, Python/Django/FastAPI, DevOps/Kubernetes/AWS, full-stack). Process MULTIPLE PAGES per search (use pagination up to 5 pages) before moving to the next search URL, to maximise the number of distinct jobs. Skip jobs already seen/applied. Fill all required fields from the profile; for open text questions generate a tailored answer from the job description. Attach the CV when requested. Confirm submission, then return to the list and continue.",
+      "ativo": true
+    },
+    {
+      "nome": "Indeed",
+      "urls_busca": [
+        "https://ie.indeed.com/jobs?q=AI+Engineer&l=Dublin",
+        "https://ie.indeed.com/jobs?q=Machine+Learning+Engineer&l=Dublin",
+        "https://ie.indeed.com/jobs?q=Python+Developer&l=Dublin",
+        "https://ie.indeed.com/jobs?q=Backend+Engineer&l=Dublin",
+        "https://ie.indeed.com/jobs?q=DevOps+Engineer&l=Dublin",
+        "https://ie.indeed.com/jobs?q=Full+Stack+Developer&l=Dublin",
+        "https://ie.indeed.com/jobs?q=AI+Engineer&l=Ireland&sc=0kf%3Aattr%28DSQF7%29%3B"
+      ],
+      "tipo": "portal_vagas",
+      "instrucoes": "Find jobs with the 'Easily apply' / 'Indeed Apply' badge (skip external-application jobs). The candidate is an EU national, targeting Dublin hybrid or remote roles in Ireland. Verify relevance against the profile (AI/ML, RAG, Python, DevOps, full-stack). Process multiple pages. Fill the form fully from the profile, generate tailored answers for open questions, attach CV, confirm submission, then continue to the next job.",
+      "ativo": true
+    }
+  ]
+}

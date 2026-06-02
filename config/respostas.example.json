@@ -1,0 +1,30 @@
+{
+  "_comentario": "Pre-defined answers for common application form questions. Copy this file to config/respostas.json and fill in with your own answers. The agent uses these as a base, varying the wording.",
+
+  "pretensao_salarial": "Negotiable, open to discussing based on the role and total package.",
+  "disponibilidade_inicio": "Immediate / one month's notice.",
+  "como_conheceu_empresa": "I came across the role during my active job search.",
+
+  "por_que_trabalhar_aqui": "<why this role/company appeals to you — tie it to your background>",
+
+  "pontos_fortes": "<your key strengths, e.g. areas you've shipped to production>",
+
+  "pontos_fracos": "<a genuine area you're improving and how you're addressing it>",
+
+  "expectativa_carreira": "<where you want to grow in the next few years>",
+
+  "trabalho_em_equipe": "<how you collaborate within a team>",
+
+  "autorizacao_trabalho": "<your work authorisation status for the target country>",
+  "necessita_visto": "<whether you need a visa / sponsorship>",
+  "localizacao": "<your location and remote/hybrid preferences>",
+
+  "_todo_preencher": {
+    "_aviso": "Optional candidate details — leave blank to skip:",
+    "possui_deficiencia": "Prefer not to say",
+    "aceita_viagem": "Yes, for occasional travel",
+    "possui_veiculo": "",
+    "estado_civil": "",
+    "data_nascimento": ""
+  }
+}

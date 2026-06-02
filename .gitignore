@@ -1,0 +1,23 @@
+node_modules/
+dist/
+
+# Personal data — NEVER commit
+config/perfil.json
+config/curriculos.json
+config/respostas.json
+assets/
+curriculos/
+screenshots/
+logs/
+data/
+.playwright-mcp/
+
+# Bundled binaries / archives
+*.zip
+
+# Environment / secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
